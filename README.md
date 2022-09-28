@@ -97,7 +97,7 @@ Com o modelo de previsão construído, podemos avaliar seus resultados e respond
 
 ![Image1](/pergunta1.png)
 
-DESCRIÇÃO, EXPLICAÇÃO DA IMAGEM
+Observando a curva de ganho do modelo construído, percebemos uma boa capacidade de rankeamento do mesmo. Percebemos que, ao utilizar nosso modelo a empresa conseguirá alcançar 44% dos clientes interessados.
 
 **Pergunta 2:** E se a capacidade do time de vendas aumentar para 40.000 ligações, qual a porcentagem de clientes interessados em adquirir um seguro de automóvel o time de vendas conseguirá contatar?
 
