@@ -38,3 +38,24 @@ compra.
  
  **Terceira Análise:** Quantas ligações o time de vendas precisa fazer para contatar 80% dos clientes interessados em adquirir um seguro de automóvel?
  
+ ## Dados Disponíveis para Análise
+ 
+|      Atributos      |       Descrição      |
+| ------------------- |  ------------------- | 
+|  Id |  ID único do cliente |
+|  Gender |  Sexo do Cliente |
+|  Age |  Idade do Cliente |
+|  Driving License |  0: se não possui carteira de motorista, 1: se possui|
+|  Region Code |  Código único da região do cliente |
+|  Previously Insured |  1: Cliente já teve seguro de carro, 0: nunca teve  |
+|  Vehicle Age |  Tempo do carro do cliente |
+|  Vehicle Damage |  1: Cliente já teve carro danificado no passado, 0: nunca teve |
+|  Annual Premium |  Valor total pago no seguro em um ano |
+|  Policy Sales Channel |  Código anonimizado para o canal de divulgação ao cliente ou seja. Agentes diferentes, por correio, por telefone, pessoalmente, etc |
+|  Vintage |  Número de dias que o cliente foi associado à empresa |
+|  Response |  1 : O cliente está interessado, 0 : O cliente não está interessado |
+
+
+
+
+ 
