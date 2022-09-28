@@ -91,4 +91,23 @@ O modelo escolhido foi a **Random Forest**, pois apresentou melhores resultados 
 
 ## Resultados de Negócio
 
+Com o modelo de previsão construído, podemos avaliar seus resultados e responder as perguntas de negócio propostas pela empresa.
+
+**Pergunta 1:** Qual a porcentagem de clientes interessados em adquirir um seguro de automóvel, o time de vendas conseguirá contatar fazendo 20.000 ligações?
+
+inserir imagem
+
+DESCRIÇÃO, EXPLICAÇÃO DA IMAGEM
+
+**Pergunta 2:** E se a capacidade do time de vendas aumentar para 40.000 ligações, qual a porcentagem de clientes interessados em adquirir um seguro de automóvel o time de vendas conseguirá contatar?
+
+inserir imagem
+
+DESCRIÇÃO, EXPLICAÇÃO DA IMAGEM
+
+**Pergunta 3:** Quantas ligações o time de vendas precisa fazer para contatar 80% dos clientes interessados em adquirir um seguro de automóvel?
+
+inserir imagem
+
+DESCRIÇÃO, EXPLICAÇÃO DA IMAGEM
 
