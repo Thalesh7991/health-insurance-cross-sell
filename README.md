@@ -103,7 +103,7 @@ Com o modelo de previsão construído, podemos avaliar seus resultados e respond
 
 ![Image2](/pergunta2.png)
 
-DESCRIÇÃO, EXPLICAÇÃO DA IMAGEM
+**Percebemos que com a capacidade do modelo construído de rankear os clientes com maior propensão de compra, caso a capacidade da equipe seja elevada a 40k ligações a empresa alcançará 92% dos clientes interessados em adquirir o novo produto.**
 
 **Pergunta 3:** Quantas ligações o time de vendas precisa fazer para contatar 80% dos clientes interessados em adquirir um seguro de automóvel?
 
