@@ -95,7 +95,7 @@ Com o modelo de previsão construído, podemos avaliar seus resultados e respond
 
 **Pergunta 1:** Qual a porcentagem de clientes interessados em adquirir um seguro de automóvel, o time de vendas conseguirá contatar fazendo 20.000 ligações?
 
-inserir imagem
+![Image1](/pergunta1.png)
 
 DESCRIÇÃO, EXPLICAÇÃO DA IMAGEM
 
