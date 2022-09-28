@@ -88,3 +88,7 @@ compra.
 
 
 O modelo escolhido foi a **Random Forest**, pois apresentou melhores resultados de rankeamento.
+
+## Resultados de Negócio
+
+
