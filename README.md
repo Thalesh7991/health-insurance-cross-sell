@@ -28,13 +28,13 @@ produto e assim, otimizar a campanha realizando apenas contatos aos clientes mai
 compra.
  </p>
  
- <p> **Além disso** ao final da consultoria devo entregar um relatório contendo algumas análises e respostas
+ <p> Além disso ao final da consultoria devo entregar um relatório contendo algumas análises e respostas
 às seguintes perguntas:
  </p>
  
- ** Primeira Análise:** Qual a porcentagem de clientes interessados em adquirir um seguro de automóvel, o time de vendas conseguirá contatar fazendo 20.000 ligações?
+ **Primeira Análise:** Qual a porcentagem de clientes interessados em adquirir um seguro de automóvel, o time de vendas conseguirá contatar fazendo 20.000 ligações?
  
- ** Segunda Análise:** E se a capacidade do time de vendas aumentar para 40.000 ligações, qual a porcentagem de clientes interessados em adquirir um seguro de automóvel o time de vendas conseguirá contatar?
+ **Segunda Análise:** E se a capacidade do time de vendas aumentar para 40.000 ligações, qual a porcentagem de clientes interessados em adquirir um seguro de automóvel o time de vendas conseguirá contatar?
  
- ** Terceira Análise:** Quantas ligações o time de vendas precisa fazer para contatar 80% dos clientes interessados em adquirir um seguro de automóvel?
+ **Terceira Análise:** Quantas ligações o time de vendas precisa fazer para contatar 80% dos clientes interessados em adquirir um seguro de automóvel?
  
