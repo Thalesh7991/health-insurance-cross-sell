@@ -109,5 +109,5 @@ Com o modelo de previsão construído, podemos avaliar seus resultados e respond
 
 ![Image3](/pergunta3.png)
 
-DESCRIÇÃO, EXPLICAÇÃO DA IMAGEM
+**Para alcançar 80% dos clientes interessados são necessárias 39635 ligações**
 
