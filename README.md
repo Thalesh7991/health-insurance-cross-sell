@@ -57,6 +57,26 @@ compra.
 
 ## Estratégia de Solução
 
+***Minha estratégia para resolver esse desafio foi:***
+
+**Step 01. Data Description:**  O objetivo é utilizar métricas estatísticas para identificar outliers no escopo do negócio.
+
+**Step 02. Feature Engineering:** Derivar novos atributos com base nas variáveis originais para descrever melhor o fenômeno a ser modelado.
+
+**Step 03. Exploratory Data Analysis:** Explorar os dados para encontrar insights e entender melhor o impacto das variáveis no aprendizado do modelo.
+
+**Step 04. Data Preparation:** Preparar os dados para que os modelos de aprendizado de máquina possam aprender um comportamento específico.
+
+**Step 05. Feature Selection:** Seleção dos atributos mais significativos para treinar o modelo.
+
+**Step 06. Machine Learning Modelling:** Treinamento do modelo de aprendizado de máquina.
+
+**Step 07. Hyperparameter Fine Tunning:** Escolher os melhores valores para cada um dos parâmetros do modelo selecionado na etapa anterior.
+
+**Step 08. Convert Model Performance to Business Values:** Converter o desempenho do modelo em um resultado de negócios.
+
+**Step 09. Deploy Modelo to Production:** Publicar o modelo em um ambiente web para que outras pessoas ou serviços possam usar os resultados para melhorar a decisão de negócios.
+
 
 
 
