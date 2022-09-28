@@ -28,5 +28,7 @@ produto e assim, otimizar a campanha realizando apenas contatos aos clientes mai
 compra.
  </p>
  
- <p>#### Além disso  #### </p>
+ <p> Além disso ao final da consultoria devo entregar um relatório contendo algumas análises e respostas
+às seguintes perguntas:
+ </p>
  
