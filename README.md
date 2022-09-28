@@ -17,3 +17,13 @@ campanha, no qual receberão a oferta do novo produto de seguro de automóveis. 
 de vendas através de ligações telefônicas.
   
 Contudo, o time de vendas tem uma capacidade de realizar 20 mil ligações dentro do período da campanha. </p>
+
+## O Desafio
+
+<p> foi contratado como um consultor de Ciência de Dados para construir um modelo que
+prediz se o cliente estaria ou não interessado no seguro de automóvel.
+  
+Com a sua solução, o time de vendas espera conseguir priorizar as pessoas com maior interesse no novo
+produto e assim, otimizar a campanha realizando apenas contatos aos clientes mais propensos a realizar a
+compra.
+ </p>
