@@ -87,4 +87,4 @@ compra.
 |  Linear Regression |  0.263 |  0.227 |  0.576 | 0.994 |
 
 
- 
+O modelo escolhido foi a **Random Forest**, pois apresentou melhores resultados de rankeamento.
