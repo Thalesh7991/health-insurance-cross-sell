@@ -115,3 +115,5 @@ Com o modelo de previsão construído, podemos avaliar seus resultados e respond
 
 Para que toda equipe de vendas tenha acesso às previsões feitas pelo modelo, elaborei um produto final no Google Sheets que permite o colaborador fazer consultas e prever a propensão de compra de vários clientes em uma planilha e assim priorizar o clientes com maior Score.
 
+![Image Final](/produto_final.png)
+
