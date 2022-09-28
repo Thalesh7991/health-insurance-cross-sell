@@ -101,7 +101,7 @@ Com o modelo de previsão construído, podemos avaliar seus resultados e respond
 
 **Pergunta 2:** E se a capacidade do time de vendas aumentar para 40.000 ligações, qual a porcentagem de clientes interessados em adquirir um seguro de automóvel o time de vendas conseguirá contatar?
 
-inserir imagem
+![Image2](/pergunta2.png)
 
 DESCRIÇÃO, EXPLICAÇÃO DA IMAGEM
 
