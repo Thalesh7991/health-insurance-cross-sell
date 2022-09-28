@@ -55,6 +55,8 @@ compra.
 |  Vintage |  Número de dias que o cliente foi associado à empresa |
 |  Response |  1 : O cliente está interessado, 0 : O cliente não está interessado |
 
+## Estratégia de Solução
+
 
 
 
