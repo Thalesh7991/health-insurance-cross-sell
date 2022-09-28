@@ -107,7 +107,7 @@ Com o modelo de previsão construído, podemos avaliar seus resultados e respond
 
 **Pergunta 3:** Quantas ligações o time de vendas precisa fazer para contatar 80% dos clientes interessados em adquirir um seguro de automóvel?
 
-inserir imagem
+![Image3](/pergunta3.png)
 
 DESCRIÇÃO, EXPLICAÇÃO DA IMAGEM
 
