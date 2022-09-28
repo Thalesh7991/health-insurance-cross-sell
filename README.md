@@ -27,3 +27,6 @@ Com a minha solução, o time de vendas espera conseguir priorizar as pessoas co
 produto e assim, otimizar a campanha realizando apenas contatos aos clientes mais propensos a realizar a
 compra.
  </p>
+ 
+ <p>#### Além disso  #### </p>
+ 
