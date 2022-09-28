@@ -20,7 +20,7 @@ Contudo, o time de vendas tem uma capacidade de realizar 20 mil ligações dentr
 
 ## O Desafio
 
-<p> foi contratado como um consultor de Ciência de Dados para construir um modelo que
+<p> Nesse contexto, fui contratado como um consultor de Ciência de Dados para construir um modelo que
 prediz se o cliente estaria ou não interessado no seguro de automóvel.
   
 Com a sua solução, o time de vendas espera conseguir priorizar as pessoas com maior interesse no novo
