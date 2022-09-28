@@ -77,7 +77,14 @@ compra.
 
 **Step 09. Deploy Modelo to Production:** Publicar o modelo em um ambiente web para que outras pessoas ou serviços possam usar os resultados para melhorar a decisão de negócios.
 
+## Performance do Modelo de Machine Learning
 
+| Modelo  |  precision_at_20000  | precision_at_40000  |  recall_at_20000  | recall_at_20000 |
+| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+|  Random Forest |  0,302	 |  0.226 |  	0,661 | 0.988 |
+|  Extra Trees |  0.295 |  0.224 |  0.646 | 0.981 |
+|  KNN |  0.294	 |  0.214	 |  0.644 | 0.938 |
+|  Linear Regression |  0.263 |  0.227 |  0.576 | 0.994 |
 
 
  
